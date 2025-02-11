@@ -3,11 +3,17 @@
   margin: 0;
 }
 
+a:hover{
+  text-decoration: underline;
+}
+
 body {
   background-color: #e6ce55;
   font-family: Helvetica, Arial, sans-serif;
 }
-
+.body{
+  font-family: Arial, Helvetica, sans-serif;
+}
 .cssBackgroundImg {
   background-image: url(../img/wrench.png);
   width: 400px;
@@ -42,6 +48,7 @@ h1 {
 
 h2 {
   font-family: "Futura Press", Helvetica, Arial, sans-serif;
+ /* font-family:"Roboto", sans-serif;*/
   color: dodgerblue;
   font-size: 2.5rem;
   text-align: left;
