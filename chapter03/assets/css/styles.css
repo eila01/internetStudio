@@ -47,8 +47,8 @@ h1 {
 }
 
 h2 {
-  font-family: "Futura Press", Helvetica, Arial, sans-serif;
- /* font-family:"Roboto", sans-serif;*/
+  /*font-family: "Futura Press", Helvetica, Arial, sans-serif;*/
+  font-family:"Roboto", sans-serif;
   color: dodgerblue;
   font-size: 2.5rem;
   text-align: left;
@@ -70,3 +70,5 @@ a:visited {
 h3 a:hover {
   color: white;
 }
+
+
